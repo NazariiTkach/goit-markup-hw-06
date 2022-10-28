@@ -577,6 +577,7 @@ body {
 
 .button-icon {
   fill: currentColor;
+  margin-left: 10px;
 }
 
 .button-footer:hover,
